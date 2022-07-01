@@ -15,6 +15,13 @@ Red.args = {
   size: "md",
 };
 
+export const Blue = Template.bind({});
+Blue.args = {
+  backgroundColor: "blue",
+  label: "Press Me",
+  size: "md",
+};
+
 export const Green = Template.bind({});
 Green.args = {
   backgroundColor: "green",
